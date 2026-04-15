@@ -14,7 +14,7 @@ WH1-Part2連結:https://github.com/JoieLiu/PL-repo/blob/main/%E3%80%8CHW1_part2_
 
 WH2-Part1連結:https://github.com/JoieLiu/PL-repo/blob/main/%E3%80%8CHW2_part1_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_ipynb%E3%80%8D.ipynb
 
-WH2-Part2連結:
+WH2-Part2連結:https://github.com/JoieLiu/PL-repo/blob/main/%E3%80%8CHW2_part2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_gradio_ipynb%E3%80%8D.ipynb
 
 
 ## 專題連結區
