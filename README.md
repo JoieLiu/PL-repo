@@ -16,5 +16,9 @@ WH2-Part1連結:https://github.com/JoieLiu/PL-repo/blob/main/%E3%80%8CHW2_part1_
 
 WH2-Part2連結:https://github.com/JoieLiu/PL-repo/blob/main/%E3%80%8CHW2_part2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_gradio_ipynb%E3%80%8D.ipynb
 
+### 作業三
+影片連結：
+
+HW3程式連結: https://github.com/JoieLiu/PL-repo/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb?short_path=a68467e
 
 ## 專題連結區
